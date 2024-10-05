@@ -2,7 +2,8 @@
 
 
 !Usar en [![Open In Colabe](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tTqE14141HzdePvwDy0HpAwXKe_m39h8?usp=sharing])
-[![Binder](https://mybinder.org)](https://mybinder.org/v2/gh/tu-usuario/Iptvcsv/HEAD)
+
+[![Binder](https://mybinder.org)](https://mybinder.org/v2/gh/titanito/Iptvcsv/HEAD)
 
 ## Descripción
 
